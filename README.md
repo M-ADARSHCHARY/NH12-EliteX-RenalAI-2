@@ -216,12 +216,6 @@ http://localhost:5000
 
 ### **Endpoints**
 
-#### **GET /** 
-Health check endpoint
-```json
-Response: "Kidney Stone Detection API is running!"
-```
-
 #### **POST /detect**
 Main detection endpoint
 
