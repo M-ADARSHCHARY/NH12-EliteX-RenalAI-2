@@ -26,7 +26,6 @@ venv.bak/
 *.h5
 *.pkl
 *.model
-weights/
 models/
 checkpoints/
 data/
